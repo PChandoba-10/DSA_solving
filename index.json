@@ -1,0 +1,17 @@
+[
+  {
+    "key": "leetcode:longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "String",
+      "Trie"
+    ],
+    "language": "plaintext",
+    "solvedAt": "2026-09-10T05:26:01.848Z",
+    "path": "LeetCode/array/Easy/longest-common-prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/submissions/2137091309/?envType=problem-list-v2&envId=string"
+  }
+]
