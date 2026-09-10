@@ -13,5 +13,19 @@
     "solvedAt": "2026-09-10T05:26:01.848Z",
     "path": "LeetCode/array/Easy/longest-common-prefix",
     "url": "https://leetcode.com/problems/longest-common-prefix/submissions/2137091309/?envType=problem-list-v2&envId=string"
+  },
+  {
+    "key": "leetcode:two-sum",
+    "title": "Two Sum",
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "plaintext",
+    "solvedAt": "2026-09-10T05:28:43.004Z",
+    "path": "LeetCode/array/Easy/two-sum",
+    "url": "https://leetcode.com/problems/two-sum/submissions/2137094862/?envType=problem-list-v2&envId=array"
   }
 ]
