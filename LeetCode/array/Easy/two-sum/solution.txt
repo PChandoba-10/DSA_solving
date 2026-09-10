@@ -1,0 +1,34 @@
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& num, int target) {
+        // int st = 0;
+        // int end = numbers.size() - 1;
+        // sort(numbers.begin(),numbers.end());
+        // while (st < end) {
+        //     int sum = numbers[st] + numbers[end];
+
+        //     if (sum == target) {
+        //         // return 1-based indices
+        //         return {st , end };
+        //     } else if (sum > target) {
+        //         end--;
+        //     } else {
+        //         st++;
+        //     }
+        // }
+        // return {};
+        unordered_map<int, int> m;
+        vector<int> ans;
+        for(int i=0;i<num.size();i++){
+            int first = num[i];
+            int sec =target-first;
+            if(m.find(sec)!=m.end()){
+                ans.push_back(i);
+                ans.push_back(m[sec]);
+                break;
+            }
+            m[first]=i;
+        }
+        return ans;
+    }
+};
