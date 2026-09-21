@@ -146,5 +146,18 @@
     "solvedAt": "2026-09-21T18:11:31.834Z",
     "path": "GeeksforGeeks/arrays/Easy/move-all-zeroes-to-end-of-array0751",
     "url": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1"
+  },
+  {
+    "key": "geeksforgeeks:move-all-negative-elements-to-end1813",
+    "title": "Move all Negatives to End",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-21T18:18:49.133Z",
+    "path": "GeeksforGeeks/arrays/Easy/move-all-negative-elements-to-end1813",
+    "url": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1"
   }
 ]
