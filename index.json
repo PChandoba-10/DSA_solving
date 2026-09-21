@@ -81,5 +81,18 @@
     "solvedAt": "2026-09-21T12:53:40.353Z",
     "path": "GeeksforGeeks/arrays/Easy/count-of-smaller-elements5947",
     "url": "https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1"
+  },
+  {
+    "key": "geeksforgeeks:second-largest3735",
+    "title": "[Naive Approach] Using Sorting",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Sorting & Searching"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-09-21T13:24:48.633Z",
+    "path": "GeeksforGeeks/sorting-searching/Easy/second-largest3735",
+    "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1#expected-approach-one-pass-search-on-time-and-o1-space"
   }
 ]
