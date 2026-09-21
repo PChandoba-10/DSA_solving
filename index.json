@@ -120,5 +120,18 @@
     "solvedAt": "2026-09-21T14:21:13.892Z",
     "path": "GeeksforGeeks/arrays/Easy/replace-all-0s-with-5",
     "url": "https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1"
+  },
+  {
+    "key": "geeksforgeeks:count-odd-even",
+    "title": "Count Odd and Even",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-21T18:04:10.810Z",
+    "path": "GeeksforGeeks/arrays/Easy/count-odd-even",
+    "url": "https://www.geeksforgeeks.org/problems/count-odd-even/1"
   }
 ]
