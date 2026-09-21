@@ -55,5 +55,18 @@
     "solvedAt": "2026-09-21T12:25:59.629Z",
     "path": "GeeksforGeeks/arrays/Easy/sort-an-array-of-0s-1s-and-2s4231",
     "url": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"
+  },
+  {
+    "key": "geeksforgeeks:missing-number-in-array1416",
+    "title": "[Naive Approach] Linear Search for Missing Number - O(n^2) Time and O(1) Space",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-21T12:48:43.734Z",
+    "path": "GeeksforGeeks/arrays/Easy/missing-number-in-array1416",
+    "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1#approach-1-using-summation-formula"
   }
 ]
