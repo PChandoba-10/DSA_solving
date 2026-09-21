@@ -107,5 +107,18 @@
     "solvedAt": "2026-09-21T13:58:54.074Z",
     "path": "GeeksforGeeks/arrays/Easy/palindromic-array-1587115620",
     "url": "https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1"
+  },
+  {
+    "key": "geeksforgeeks:replace-all-0s-with-5",
+    "title": "Replace all 0's with 5",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-21T14:21:13.892Z",
+    "path": "GeeksforGeeks/arrays/Easy/replace-all-0s-with-5",
+    "url": "https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1"
   }
 ]
