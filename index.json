@@ -159,5 +159,18 @@
     "solvedAt": "2026-09-21T18:18:49.133Z",
     "path": "GeeksforGeeks/arrays/Easy/move-all-negative-elements-to-end1813",
     "url": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1"
+  },
+  {
+    "key": "geeksforgeeks:who-will-win-1587115621",
+    "title": "Binary Search",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "language": "c++",
+    "solvedAt": "2026-09-25T10:57:28.934Z",
+    "path": "GeeksforGeeks/trees/Easy/who-will-win-1587115621",
+    "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1"
   }
 ]
