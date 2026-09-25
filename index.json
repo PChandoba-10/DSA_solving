@@ -172,5 +172,18 @@
     "solvedAt": "2026-09-25T10:57:28.934Z",
     "path": "GeeksforGeeks/trees/Easy/who-will-win-1587115621",
     "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1"
+  },
+  {
+    "key": "geeksforgeeks:reverse-an-array",
+    "title": "Reverse Array",
+    "platform": "geeksforgeeks",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "language": "c",
+    "solvedAt": "2026-09-25T11:03:01.853Z",
+    "path": "GeeksforGeeks/arrays/Easy/reverse-an-array",
+    "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
   }
 ]
